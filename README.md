@@ -1,10 +1,10 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&theme=graywhite)
 <br/>
-![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true)
+![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&theme=graywhite)
 
 <!--
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&theme=dark)
-![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&theme=dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&theme=graywhite)
+![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&theme=graywhite)
 **franciscobarrios/franciscobarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
