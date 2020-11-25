@@ -1,5 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&theme=onedark)
-![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&theme=dark)
+<br/>
+![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&theme=dark)
 
 <!--
 **franciscobarrios/franciscobarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
