@@ -1,5 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&count_private=true&theme=dark)
-![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&count_private=true&theme=chartreuse-dark)
+![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&count_private=true&theme=chartreuse-dark)
 
 <!--
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&theme=graywhite)
