@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&count_private=true&hide_border=true&bg_color="#000")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarrios&count_private=true&theme=dark&hide_border=true)
 ![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franciscobarrios&show_icons=true&count_private=true&theme=dark&hide_border=true)
 
 <!--
